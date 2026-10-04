@@ -1,0 +1,4 @@
+/dist/
+/research/
+*.log
+/publish.ps1
